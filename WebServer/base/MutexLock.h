@@ -6,6 +6,7 @@
 
 #ifndef MONGOWEB_MUTEXLOCK_H
 #define MONGOWEB_MUTEXLOCK_H
+
 #endif //MONGOWEB_MUTEXLOCK_H
 
 #include "noncopyable.h"
